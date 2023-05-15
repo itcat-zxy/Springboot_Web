@@ -1,0 +1,8 @@
+
+#阿里云OSS
+aliyun:
+  oss:
+    endpoint: https://oss-cn-hangzhou.aliyuncs.com
+    accessKeyId: LTAI5t8vpXyeHtYtHQr4zn4U
+    accessKeySecret: SUkXXKQ2E5hZeBNvzBm3DOPG2tnoKY
+    bucketName: web-jodio
