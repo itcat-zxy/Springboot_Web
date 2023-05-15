@@ -1,0 +1,11 @@
+# Project exclude paths
+/http-server-demo/target/
+/maven-project01/target/
+/springboot-aop-quickstart/target/
+/springboot-mybatis-crud/target/
+/springboot-mybatis-quickstart/target/
+/springboot-web-config/target/
+/springboot-web-config2/target/
+/springboot-web-quickstart/target/
+/springboot-web-req-resp/target/
+/tlias-web-management/target/
