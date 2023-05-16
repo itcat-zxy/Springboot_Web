@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-aop-quickstart" />
+        <module name="springboot-autoconfiguration-test" />
+        <module name="springboot-mybatis-crud" />
+        <module name="springboot-mybatis-quickstart" />
+        <module name="springboot-web-config" />
+        <module name="maven-projectA" />
+        <module name="maven-projectB" />
+        <module name="maven-projectC" />
+        <module name="maven-project01" />
+        <module name="Ioc-Bean-utils" />
+        <module name="maven-project02" />
+        <module name="tlias-web-management" />
+        <module name="aliyun-oss-spring-boot-starter" />
+        <module name="http-server-demo" />
+        <module name="springboot-web-req-resp" />
+        <module name="springboot-web-quickstart" />
+        <module name="aliyun-oss-spring-boot-autoconfigure" />
+        <module name="springboot-web-config2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aliyun-oss-spring-boot-autoconfigure" target="11" />
+      <module name="aliyun-oss-spring-boot-starter" target="11" />
+      <module name="http-server-demo" target="11" />
+      <module name="Ioc-Bean-utils" target="11" />
+      <module name="maven-project01" target="11" />
+      <module name="maven-project02" target="11" />
+      <module name="maven-projectA" target="11" />
+      <module name="maven-projectB" target="11" />
+      <module name="maven-projectC" target="11" />
+      <module name="springboot-aop-quickstart" target="1.8" />
+      <module name="springboot-autoconfiguration-test" target="11" />
+      <module name="springboot-mybatis-crud" target="11" />
+      <module name="springboot-mybatis-quickstart" target="11" />
+      <module name="springboot-web-config" target="11" />
+      <module name="springboot-web-config2" target="11" />
+      <module name="springboot-web-quickstart" target="11" />
+      <module name="springboot-web-req-resp" target="11" />
+      <module name="tlias-web-management" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="aliyun-oss-spring-boot-autoconfigure" options="-parameters" />
+      <module name="aliyun-oss-spring-boot-starter" options="-parameters" />
+      <module name="springboot-aop-quickstart" options="-parameters" />
+      <module name="springboot-autoconfiguration-test" options="-parameters" />
+      <module name="springboot-mybatis-crud" options="-parameters" />
+      <module name="springboot-mybatis-quickstart" options="-parameters" />
+      <module name="springboot-web-config" options="-parameters" />
+      <module name="springboot-web-config2" options="-parameters" />
+      <module name="springboot-web-quickstart" options="-parameters" />
+      <module name="springboot-web-req-resp" options="-parameters" />
+      <module name="tlias-web-management" options="-parameters" />
+    </option>
+  </component>
+</project>

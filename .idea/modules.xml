@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ioc-Bean-utils/Ioc-Bean-utils.iml" filepath="$PROJECT_DIR$/Ioc-Bean-utils/Ioc-Bean-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aliyun-oss-spring-boot-autoconfigure/aliyun-oss-spring-boot-autoconfigure.iml" filepath="$PROJECT_DIR$/aliyun-oss-spring-boot-autoconfigure/aliyun-oss-spring-boot-autoconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aliyun-oss-spring-boot-starter/aliyun-oss-spring-boot-starter.iml" filepath="$PROJECT_DIR$/aliyun-oss-spring-boot-starter/aliyun-oss-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http-server-demo/http-server-demo.iml" filepath="$PROJECT_DIR$/http-server-demo/http-server-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-project01/maven-project01.iml" filepath="$PROJECT_DIR$/maven-project01/maven-project01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-project02/maven-project02.iml" filepath="$PROJECT_DIR$/maven-project02/maven-project02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-projectA/maven-projectA.iml" filepath="$PROJECT_DIR$/maven-projectA/maven-projectA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-projectB/maven-projectB.iml" filepath="$PROJECT_DIR$/maven-projectB/maven-projectB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-projectC/maven-projectC.iml" filepath="$PROJECT_DIR$/maven-projectC/maven-projectC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-aop-quickstart/springboot-aop-quickstart.iml" filepath="$PROJECT_DIR$/springboot-aop-quickstart/springboot-aop-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-autoconfiguration-test/springboot-autoconfiguration-test.iml" filepath="$PROJECT_DIR$/springboot-autoconfiguration-test/springboot-autoconfiguration-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-crud/springboot-mybatis-crud.iml" filepath="$PROJECT_DIR$/springboot-mybatis-crud/springboot-mybatis-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-quickstart/springboot-mybatis-quickstart.iml" filepath="$PROJECT_DIR$/springboot-mybatis-quickstart/springboot-mybatis-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-web-config/springboot-web-config.iml" filepath="$PROJECT_DIR$/springboot-web-config/springboot-web-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-web-config2/springboot-web-config2.iml" filepath="$PROJECT_DIR$/springboot-web-config2/springboot-web-config2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-web-quickstart/springboot-web-quickstart.iml" filepath="$PROJECT_DIR$/springboot-web-quickstart/springboot-web-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-web-req-resp/springboot-web-req-resp.iml" filepath="$PROJECT_DIR$/springboot-web-req-resp/springboot-web-req-resp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tlias-web-management/tlias-web-management.iml" filepath="$PROJECT_DIR$/tlias-web-management/tlias-web-management.iml" />
+    </modules>
+  </component>
+</project>
